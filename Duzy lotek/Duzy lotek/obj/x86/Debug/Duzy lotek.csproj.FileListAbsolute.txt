@@ -1,0 +1,7 @@
+c:\users\jd\documents\visual studio 2010\Projects\Duzy lotek\Duzy lotek\bin\Debug\Duzy lotek.exe
+c:\users\jd\documents\visual studio 2010\Projects\Duzy lotek\Duzy lotek\bin\Debug\Duzy lotek.pdb
+c:\users\jd\documents\visual studio 2010\Projects\Duzy lotek\Duzy lotek\obj\x86\Debug\Duzy_lotek.Form1.resources
+c:\users\jd\documents\visual studio 2010\Projects\Duzy lotek\Duzy lotek\obj\x86\Debug\Duzy_lotek.Properties.Resources.resources
+c:\users\jd\documents\visual studio 2010\Projects\Duzy lotek\Duzy lotek\obj\x86\Debug\Duzy lotek.csproj.GenerateResource.Cache
+c:\users\jd\documents\visual studio 2010\Projects\Duzy lotek\Duzy lotek\obj\x86\Debug\Duzy lotek.exe
+c:\users\jd\documents\visual studio 2010\Projects\Duzy lotek\Duzy lotek\obj\x86\Debug\Duzy lotek.pdb
